@@ -1,0 +1,19 @@
+PageRank program started.
+Input Arguments :: s3://dspatel28/input s3://dspatel28/output 0.15 10 100
+PageRank program successfully finished.
+No of Nodes = 3178532
+Preprocessing Running Time (s) = 995
+Page Rank Calculations and TopK Running Time (s) = 375
+Total Running Time(s) = 1371
+Delta after each iteration = 
+Delta after iteration 1 = 0.5169307718158418
+Delta after iteration 2 = 0.3666584716621699
+Delta after iteration 3 = 0.31656325362081633
+Delta after iteration 4 = 0.29861229711289056
+Delta after iteration 5 = 0.29183775198933476
+Delta after iteration 6 = 0.2891491178472559
+Delta after iteration 7 = 0.2880270201184807
+Delta after iteration 8 = 0.28753218667309766
+Delta after iteration 9 = 0.28730037913693873
+Delta after iteration 10 = 0.2871840409908956
+
